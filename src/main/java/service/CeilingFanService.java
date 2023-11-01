@@ -1,4 +1,4 @@
-package com.medtest.service;
+package service;
 
 public class CeilingFanService {
     private int currentSpeed;

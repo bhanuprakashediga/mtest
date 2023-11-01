@@ -1,8 +1,6 @@
-import com.medtest.controller.CeilingFanController;
-import com.medtest.service.CeilingFanService;
+import controller.CeilingFanController;
+import service.CeilingFanService;
 
-import java.io.BufferedReader;
-import java.io.InputStreamReader;
 import java.util.Scanner;
 
 

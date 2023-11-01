@@ -1,6 +1,6 @@
-package com.medtest.controller;
+package controller;
 
-import com.medtest.service.CeilingFanService;
+import service.CeilingFanService;
 
 public class CeilingFanController {
 
